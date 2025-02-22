@@ -1,0 +1,62 @@
+[
+  {
+      "_id": "1",
+      "img_bg": "/assets/img/grid/9.png",
+      "category": "Extracurricular",
+      "title": "Swachh Bharat Drive",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Mrs. Sharma",
+      "date": "2024-02-05",
+      "description": "Students participated in a cleanliness drive to promote hygiene and community well-being."
+  },
+  {
+      "_id": "2",
+      "img_bg": "/assets/img/grid/14.png",
+      "category": "Social Service",
+      "title": "Blood Donation Camp",
+      "teacher_img": "/assets/img/staff/staff-2.png",
+      "tutor_name": "Mr. Singh",
+      "date": "2024-01-20",
+      "description": "A successful blood donation drive organized by students and faculty, saving many lives."
+  },
+  {
+      "_id": "3",
+      "img_bg": "/assets/img/grid/28.png",
+      "category": "Environmental",
+      "title": "Tree Plantation Initiative",
+      "teacher_img": "/assets/img/staff/staff-3.png",
+      "tutor_name": "Ms. Verma",
+      "date": "2023-12-15",
+      "description": "Hundreds of saplings were planted as part of an effort to promote a greener environment."
+  },
+  {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/16.png",
+      "category": "Educational",
+      "title": "Rural Outreach Program",
+      "teacher_img": "/assets/img/staff/staff-4.png",
+      "tutor_name": "Dr. Patel",
+      "date": "2023-11-25",
+      "description": "Students visited rural areas to teach and provide educational materials to underprivileged children."
+  },
+  {
+      "_id": "5",
+      "img_bg": "/assets/img/grid/31.png",
+      "category": "Healthcare",
+      "title": "Community Health Checkup",
+      "teacher_img": "/assets/img/staff/staff-5.png",
+      "tutor_name": "Mr. Gupta",
+      "date": "2023-10-30",
+      "description": "Medical checkups were conducted for local communities to ensure better health awareness."
+  },
+  {
+      "_id": "6",
+      "img_bg": "/assets/img/grid/4.png",
+      "category": "Educational",
+      "title": "Education Drive for Underprivileged",
+      "teacher_img": "/assets/img/staff/staff-6.png",
+      "tutor_name": "Mrs. Reddy",
+      "date": "2023-09-10",
+      "description": "A special initiative to provide basic education and learning resources to children in need."
+  }
+]

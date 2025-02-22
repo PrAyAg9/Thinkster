@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "dummy-43d19",
+    "firebase firestore:import --collection=awards --json=data/awards.json": "dummy-43d19",
+    "myproject": "dummy-43d19"
+  },
+  "targets": {},
+  "etags": {}
+}

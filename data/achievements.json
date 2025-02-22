@@ -1,0 +1,92 @@
+[
+    {
+      "_id": "1",
+      "img_bg": "/assets/img/grid/6.png",
+      "category": "Handwriting",
+      "title": "Exquisite Handwriting Award",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Ms. Parker",
+      "date": "2023-05-12",
+      "description": "Awarded for outstanding handwriting skills and presentation."
+    },
+    {
+      "_id": "2",
+      "img_bg": "/assets/img/grid/29.png",
+      "category": "Olympiad",
+      "title": "National Math Olympiad Champion",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Mr. Johnson",
+      "date": "2023-06-18",
+      "description": "Achieved first place in the National Math Olympiad."
+    },
+    {
+      "_id": "3",
+      "img_bg": "/assets/img/grid/30.png",
+      "category": "Olympiad",
+      "title": "Regional Science Olympiad Winner",
+      "teacher_img": "/assets/img/staff/staff-3.png",
+      "tutor_name": "Mr. Johnson",
+      "date": "2023-07-10",
+      "description": "Winner of the regional science competition."
+    },
+    {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/31.png",
+      "category": "Olympiad",
+      "title": "State Olympiad Excellence",
+      "teacher_img": "/assets/img/staff/staff-4.png",
+      "tutor_name": "Mr. Johnson",
+      "date": "2023-08-05",
+      "description": "Excelled in state-level Olympiad competitions."
+    },
+    {
+      "_id": "5",
+      "img_bg": "/assets/img/grid/32.png",
+      "category": "Olympiad",
+      "title": "International Olympiad Medalist",
+      "teacher_img": "/assets/img/staff/staff-5.png",
+      "tutor_name": "Mr. Johnson",
+      "date": "2023-09-20",
+      "description": "Received a medal at the International Olympiad."
+    },
+    {
+      "_id": "6",
+      "img_bg": "/assets/img/grid/27.png",
+      "category": "Olympiad",
+      "title": "Olympiad Participation Award",
+      "teacher_img": "/assets/img/staff/staff-6.png",
+      "tutor_name": "Mr. Johnson",
+      "date": "2023-10-15",
+      "description": "Recognized for participation in various Olympiad events."
+    },
+    {
+      "_id": "7",
+      "img_bg": "/assets/img/grid/26.png",
+      "category": "Sports",
+      "title": "National Sports Champion",
+      "teacher_img": "/assets/img/staff/staff-7.png",
+      "tutor_name": "Coach Carter",
+      "date": "2023-11-25",
+      "description": "Winner of the National Sports Championship."
+    },
+    {
+      "_id": "8",
+      "img_bg": "/assets/img/grid/25.png",
+      "category": "Academic",
+      "title": "Academic Excellence Award",
+      "teacher_img": "/assets/img/staff/staff-8.png",
+      "tutor_name": "Dr. Baker",
+      "date": "2023-12-05",
+      "description": "Awarded for outstanding academic performance."
+    },
+    {
+      "_id": "9",
+      "img_bg": "/assets/img/grid/10.png",
+      "category": "Speech",
+      "title": "Outstanding Speech Competition",
+      "teacher_img": "/assets/img/staff/staff-9.png",
+      "tutor_name": "Ms. Lee",
+      "date": "2024-01-10",
+      "description": "Recognized for exceptional public speaking skills."
+    }
+]

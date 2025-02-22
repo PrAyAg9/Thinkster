@@ -1,0 +1,160 @@
+{
+  "staffMembers": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "designation": "Physics Teacher",
+      "image": "/assets/img/staff/staff-1.png",
+      "shape": {
+        "backgroundColor": "#E2FAFF",
+        "borderRadius": "135px 0 0 0"
+      },
+      "bio": "Dr. Rajesh Kumar has over 55 years of teaching experience in Physics. He specializes in making complex concepts easy to understand through practical demonstrations.",
+      "email": "rajesh.kumar@school.edu.in",
+      "phone": "+91 12765 43210"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "designation": "Mathematics Teacher",
+      "image": "/assets/img/staff/staff-2.png",
+      "shape": {
+        "backgroundColor": "#E4FFE2",
+        "borderRadius": "135px 115px 115px 0"
+      },
+      "bio": "Mrs. Priya Sharma brings mathematics to life with her innovative teaching methods. She has helped numerous students excel in competitive exams.",
+      "email": "priya.sharma@school.edu.in",
+      "phone": "+91 12765 43211"
+    },
+    {
+      "id": 3,
+      "name": "Amit Patel",
+      "designation": "Chemistry Teacher",
+      "image": "/assets/img/staff/staff-1.png",
+      "shape": {
+        "backgroundColor": "#E8EDFF",
+        "borderRadius": "0 135px 0 0"
+      },
+      "bio": "Mr. Amit Patel is known for his engaging chemistry experiments and clear explanations. He holds a master's degree in Chemistry from IIT.",
+      "email": "amit.patel@school.edu.in",
+      "phone": "+91 12765 43212"
+    },
+    {
+      "id": 4,
+      "name": "Neha Verma",
+      "designation": "English Teacher",
+      "image": "/assets/img/staff/staff-4.png",
+      "shape": {
+        "backgroundColor": "#FFE2E2",
+        "borderRadius": "115px 135px 0 115px"
+      },
+      "bio": "Ms. Neha Verma is passionate about literature and language. She leads the school's debating club and annual literary festival.",
+      "email": "neha.verma@school.edu.in",
+      "phone": "+91 12765 43213"
+    },
+    {
+      "id": 5,
+      "name": "Rahul Mehta",
+      "designation": "Computer Science",
+      "image": "/assets/img/staff/staff-5.png",
+      "shape": {
+        "backgroundColor": "#FFFAE2",
+        "borderRadius": "0 135px 0 0"
+      },
+      "bio": "Mr. Rahul Mehta is an expert in programming and web development. He has introduced several tech initiatives in the school.",
+      "email": "rahul.mehta@school.edu.in",
+      "phone": "+91 12765 43214"
+    },
+    {
+      "id": 6,
+      "name": "Arjun Singh",
+      "designation": "Physical Education",
+      "image": "/assets/img/staff/staff-7.png",
+      "shape": {
+        "backgroundColor": "#E6E2FF",
+        "borderRadius": "115px 135px 0 115px"
+      },
+      "bio": "Mr. Arjun Singh is a former state-level athlete who now trains students in various sports. He has coached several district-level champions.",
+      "email": "arjun.singh@school.edu.in",
+      "phone": "+91 12765 43215"
+    },
+    {
+      "id": 7,
+      "name": "Meera Gupta",
+      "designation": "Hindi Teacher",
+      "image": "/assets/img/staff/staff-6.png",
+      "shape": {
+        "backgroundColor": "#FFE8F4",
+        "borderRadius": "135px 0 0 0px"
+      },
+      "bio": "Mrs. Meera Gupta has a deep love for Hindi literature and language. She organizes cultural events and poetry competitions.",
+      "email": "meera.gupta@school.edu.in",
+      "phone": "+91 12765 43216"
+    },
+    {
+      "id": 8,
+      "name": "Arun Reddy",
+      "designation": "Biology Teacher",
+      "image": "/assets/img/staff/staff-7.png",
+      "shape": {
+        "backgroundColor": "#E2FFFC",
+        "borderRadius": "135px 115px 115px 0px"
+      },
+      "bio": "Dr. Arun Reddy specializes in botanical sciences and maintains the school's botanical garden. He promotes environmental awareness.",
+      "email": "arun.reddy@school.edu.in",
+      "phone": "+91 12765 43217"
+    },
+    {
+      "id": 9,
+      "name": "Vikram Malhotra",
+      "designation": "Social Science",
+      "image": "/assets/img/staff/staff-5.png",
+      "shape": {
+        "backgroundColor": "#E2FAFF",
+        "borderRadius": "135px 0 0 0"
+      },
+      "bio": "Mr. Vikram Malhotra makes history and civics engaging through storytelling and interactive sessions. He organizes educational field trips.",
+      "email": "vikram.malhotra@school.edu.in",
+      "phone": "+91 12765 43218"
+    },
+    {
+      "id": 10,
+      "name": "Ananya Desai",
+      "designation": "Sanskrit Teacher",
+      "image": "/assets/img/staff/staff-4.png",
+      "shape": {
+        "backgroundColor": "#E4FFE2",
+        "borderRadius": "135px 115px 115px 0"
+      },
+      "bio": "Mrs. Ananya Desai is dedicated to preserving classical language and culture. She conducts Sanskrit drama and recitation programs.",
+      "email": "ananya.desai@school.edu.in",
+      "phone": "+91 98765 43219"
+    },
+    {
+      "id": 11,
+      "name": "Karthik Iyer",
+      "designation": "Economics Teacher",
+      "image": "/assets/img/staff/staff-1.png",
+      "shape": {
+        "backgroundColor": "#E8EDFF",
+        "borderRadius": "0 135px 0 0"
+      },
+      "bio": "Mr. Karthik Iyer brings real-world economics into the classroom. He leads the school's business and entrepreneurship club.",
+      "email": "karthik.iyer@school.edu.in",
+      "phone": "+91 12765 43220"
+    },
+    {
+      "id": 12,
+      "name": "Deepika Menon",
+      "designation": "Art Teacher",
+      "image": "/assets/img/staff/staff-8.png",
+      "shape": {
+        "backgroundColor": "#FFE2E2",
+        "borderRadius": "115px 135px 0 115px"
+      },
+      "bio": "Ms. Deepika Menon is a professional artist who nurtures creativity in students. She organizes the annual art exhibition and workshops.",
+      "email": "deepika.menon@school.edu.in",
+      "phone": "+91 12765 43221"
+    }
+  ]
+}

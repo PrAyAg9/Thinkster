@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "img": "/assets/img/research/1.webp",
+      "title": "Our Vision",
+      "description": "To nurture holistic development and empower students to become responsible global citizens rooted in Indian values and culture.",
+      "border": "research__item-border"
+    },
+    {
+      "id": 2,
+      "img": "/assets/img/research/2.jpg",
+      "title": "Our Mission",
+      "description": "To provide quality education that combines rigorous academic study with the creative arts, sports, and life skills, fostering an enduring passion for learning.",
+      "border": "research__item-border"
+    },
+    {
+      "id": 3,
+      "img": "/assets/img/research/3.jpg",
+      "title": "Our Core Values",
+      "description": "Integrity, Respect, Excellence, and Compassion guide us in creating a supportive and inclusive learning environment for all students."
+    }
+  ]
+  

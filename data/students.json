@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "name": "Student 1",
+      "class": "1",
+      "admissionDate": "2025-01-01",
+      "status": "New Admission"
+    },
+    {
+      "id": 2,
+      "name": "Student 2",
+      "class": "1",
+      "admissionDate": "2025-01-02",
+      "status": "New Admission"
+    },
+    {
+      "id": 3,
+      "name": "Student 3",
+      "class": "1",
+      "admissionDate": "2025-01-03",
+      "status": "New Admission"
+    },
+    {
+      "id": 4,
+      "name": "Student 4",
+      "class": "1",
+      "admissionDate": "2025-01-04",
+      "status": "New Admission"
+    },
+    {
+      "id": 5,
+      "name": "Student 5",
+      "class": "1",
+      "admissionDate": "2025-01-05",
+      "status": "New Admission"
+    },
+    {
+      "id": 6,
+      "name": "Student 6",
+      "class": "1",
+      "admissionDate": "2025-01-06",
+      "status": "New Admission"
+    },
+    {
+      "id": 7,
+      "name": "Student 7",
+      "class": "1",
+      "admissionDate": "2025-01-07",
+      "status": "New Admission"
+    },
+    {
+      "id": 8,
+      "name": "Student 8",
+      "class": "1",
+      "admissionDate": "2025-01-08",
+      "status": "New Admission"
+    },
+    {
+      "id": 9,
+      "name": "Student 9",
+      "class": "1",
+      "admissionDate": "2025-01-09",
+      "status": "New Admission"
+    },
+    {
+      "id": 10,
+      "name": "Student 10",
+      "class": "1",
+      "admissionDate": "2025-01-10",
+      "status": "New Admission"
+    },
+    {
+      "id": 11,
+      "name": "Student 11",
+      "class": "1",
+      "admissionDate": "2025-01-11",
+      "status": "New Admission"
+    },
+    {
+      "id": 12,
+      "name": "Student 12",
+      "class": "1",
+      "admissionDate": "2025-01-12",
+      "status": "New Admission"
+    },
+    {
+      "id": 13,
+      "name": "Student 13",
+      "class": "1",
+      "admissionDate": "2025-01-13",
+      "status": "New Admission"
+    },
+    {
+      "id": 14,
+      "name": "Student 14",
+      "class": "1",
+      "admissionDate": "2025-01-14",
+      "status": "New Admission"
+    },
+    {
+      "id": 15,
+      "name": "Student 15",
+      "class": "1",
+      "admissionDate": "2025-01-15",
+      "status": "New Admission"
+    },
+    {
+      "id": 16,
+      "name": "Student 16",
+      "class": "1",
+      "admissionDate": "2025-01-16",
+      "status": "New Admission"
+    },
+    {
+      "id": 17,
+      "name": "Student 17",
+      "class": "1",
+      "admissionDate": "2025-01-17",
+      "status": "New Admission"
+    },
+    {
+      "id": 18,
+      "name": "Student 18",
+      "class": "1",
+      "admissionDate": "2025-01-18",
+      "status": "New Admission"
+    },
+    {
+      "id": 19,
+      "name": "Student 19",
+      "class": "1",
+      "admissionDate": "2025-01-19",
+      "status": "New Admission"
+    },
+    {
+      "id": 20,
+      "name": "Student 20",
+      "class": "1",
+      "admissionDate": "2025-01-20",
+      "status": "New Admission"
+    },
+    {
+      "id": 21,
+      "name": "Student 21",
+      "class": "1",
+      "admissionDate": "2025-01-21",
+      "status": "New Admission"
+    },
+    {
+      "id": 22,
+      "name": "Student 22",
+      "class": "1",
+      "admissionDate": "2025-01-22",
+      "status": "New Admission"
+    },
+    {
+      "id": 23,
+      "name": "Student 23",
+      "class": "1",
+      "admissionDate": "2025-01-23",
+      "status": "New Admission"
+    },
+    {
+      "id": 24,
+      "name": "Student 24",
+      "class": "1",
+      "admissionDate": "2025-01-24",
+      "status": "New Admission"
+    },
+    {
+      "id": 25,
+      "name": "Student 25",
+      "class": "1",
+      "admissionDate": "2025-01-25",
+      "status": "New Admission"
+    },
+    {
+      "id": 26,
+      "name": "Student 26",
+      "class": "1",
+      "admissionDate": "2025-01-26",
+      "status": "New Admission"
+    },
+    {
+      "id": 27,
+      "name": "Student 27",
+      "class": "1",
+      "admissionDate": "2025-01-27",
+      "status": "New Admission"
+    },
+    {
+      "id": 28,
+      "name": "Student 28",
+      "class": "1",
+      "admissionDate": "2025-01-28",
+      "status": "New Admission"
+    },
+    {
+      "id": 29,
+      "name": "Student 29",
+      "class": "1",
+      "admissionDate": "2025-01-29",
+      "status": "New Admission"
+    },
+    {
+      "id": 30,
+      "name": "Student 30",
+      "class": "1",
+      "admissionDate": "2025-01-30",
+      "status": "New Admission"
+    },
+    {
+      "id": 31,
+      "name": "Student 31",
+      "class": "1",
+      "admissionDate": "2025-01-31",
+      "status": "New Admission"
+    },
+    {
+      "id": 32,
+      "name": "Student 32",
+      "class": "1",
+      "admissionDate": "2025-02-01",
+      "status": "New Admission"
+    },
+    {
+      "id": 33,
+      "name": "Student 33",
+      "class": "1",
+      "admissionDate": "2025-02-02",
+      "status": "New Admission"
+    },
+    {
+      "id": 34,
+      "name": "Student 34",
+      "class": "1",
+      "admissionDate": "2025-02-03",
+      "status": "New Admission"
+    },
+    {
+      "id": 35,
+      "name": "Student 35",
+      "class": "1",
+      "admissionDate": "2025-02-04",
+      "status": "New Admission"
+    },
+    {
+      "id": 36,
+      "name": "Student 36",
+      "class": "1",
+      "admissionDate": "2025-02-05",
+      "status": "New Admission"
+    },
+    {
+      "id": 37,
+      "name": "Student 37",
+      "class": "1",
+      "admissionDate": "2025-02-06",
+      "status": "New Admission"
+    },
+    {
+      "id": 38,
+      "name": "Student 38",
+      "class": "1",
+      "admissionDate": "2025-02-07",
+      "status": "New Admission"
+    },
+    {
+      "id": 39,
+      "name": "Student 39",
+      "class": "1",
+      "admissionDate": "2025-02-08",
+      "status": "New Admission"
+    },
+    {
+      "id": 40,
+      "name": "Student 40",
+      "class": "1",
+      "admissionDate": "2025-02-09",
+      "status": "New Admission"
+    },
+    {
+      "id": 41,
+      "name": "Student 41",
+      "class": "1",
+      "admissionDate": "2025-02-10",
+      "status": "New Admission"
+    },
+    {
+      "id": 42,
+      "name": "Student 42",
+      "class": "1",
+      "admissionDate": "2025-02-11",
+      "status": "New Admission"
+    },
+    {
+      "id": 43,
+      "name": "Student 43",
+      "class": "1",
+      "admissionDate": "2025-02-12",
+      "status": "New Admission"
+    },
+    {
+      "id": 44,
+      "name": "Student 44",
+      "class": "1",
+      "admissionDate": "2025-02-13",
+      "status": "New Admission"
+    },
+    {
+      "id": 45,
+      "name": "Student 45",
+      "class": "1",
+      "admissionDate": "2025-02-14",
+      "status": "New Admission"
+    },
+    {
+      "id": 46,
+      "name": "Student 46",
+      "class": "1",
+      "admissionDate": "2025-02-15",
+      "status": "New Admission"
+    },
+    {
+      "id": 47,
+      "name": "Student 47",
+      "class": "1",
+      "admissionDate": "2025-02-16",
+      "status": "New Admission"
+    },
+    {
+      "id": 48,
+      "name": "Student 48",
+      "class": "1",
+      "admissionDate": "2025-02-17",
+      "status": "New Admission"
+    },
+    {
+      "id": 49,
+      "name": "Student 49",
+      "class": "1",
+      "admissionDate": "2025-02-18",
+      "status": "New Admission"
+    },
+    {
+      "id": 50,
+      "name": "Student 50",
+      "class": "1",
+      "admissionDate": "2025-02-19",
+      "status": "New Admission"
+    }
+  ]
+  

@@ -1,0 +1,157 @@
+{
+    "holidaysData": [
+      {
+        "id": 1,
+        "holiday": "Eid-Ul-Fitar",
+        "date": "April 11, 2024",
+        "day": "Thursday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 2,
+        "holiday": "Ambedkar's Birthday & Bengali New Year",
+        "date": "April 14, 2024",
+        "day": "Sunday",
+        "type": "National Holiday",
+        "category": "Holiday"
+      },
+      {
+        "id": 3,
+        "holiday": "Ram Navami",
+        "date": "April 17, 2024",
+        "day": "Wednesday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 4,
+        "holiday": "World Art Day",
+        "date": "April 17, 2024",
+        "day": "Wednesday",
+        "type": "Activity",
+        "category": "Event"
+      },
+      {
+        "id": 5,
+        "holiday": "World Heritage Day",
+        "date": "April 18, 2024",
+        "day": "Thursday",
+        "type": "Activity",
+        "category": "Event"
+      },
+      {
+        "id": 6,
+        "holiday": "Mahavir Jayanti",
+        "date": "April 21, 2024",
+        "day": "Sunday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 7,
+        "holiday": "World Earth Day",
+        "date": "April 24, 2024",
+        "day": "Wednesday",
+        "type": "Activity",
+        "category": "Event"
+      },
+      {
+        "id": 8,
+        "holiday": "Ideas of Tourism",
+        "date": "April 26, 2024",
+        "day": "Friday",
+        "type": "Activity",
+        "category": "Event"
+      },
+      {
+        "id": 9,
+        "holiday": "Carrom Competition (Boys & Girls)",
+        "date": "April 27, 2024",
+        "day": "Saturday",
+        "type": "Sports",
+        "category": "Competition"
+      },
+      {
+        "id": 10,
+        "holiday": "World Dance Day",
+        "date": "April 29, 2024",
+        "day": "Monday",
+        "type": "Cultural",
+        "category": "Competition"
+      },
+      {
+        "id": 11,
+        "holiday": "May Day",
+        "date": "May 1, 2024",
+        "day": "Wednesday",
+        "type": "National Holiday",
+        "category": "Holiday"
+      },
+      {
+        "id": 12,
+        "holiday": "May Day (Sewa Activity)",
+        "date": "May 2, 2024",
+        "day": "Thursday",
+        "type": "Activity",
+        "category": "Event"
+      },
+      {
+        "id": 13,
+        "holiday": "Rabindra Jayanti Celebration",
+        "date": "May 8, 2024",
+        "day": "Wednesday",
+        "type": "Cultural",
+        "category": "Event"
+      },
+      {
+        "id": 14,
+        "holiday": "Summer Vacation",
+        "date": "May 18 - June 11, 2024",
+        "day": "Multiple Days",
+        "type": "Vacation",
+        "category": "Holiday",
+        "note": "Dates may vary due to climatic condition"
+      },
+      {
+        "id": 15,
+        "holiday": "Id-Uz-Zuha",
+        "date": "June 17, 2024",
+        "day": "Monday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 16,
+        "holiday": "International Yoga Day",
+        "date": "June 21, 2024",
+        "day": "Friday",
+        "type": "Sports",
+        "category": "Competition"
+      },
+      {
+        "id": 17,
+        "holiday": "Rath Yatra",
+        "date": "July 7, 2024",
+        "day": "Sunday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 18,
+        "holiday": "Muharram",
+        "date": "July 17, 2024",
+        "day": "Wednesday",
+        "type": "Festival",
+        "category": "Holiday"
+      },
+      {
+        "id": 19,
+        "holiday": "Investiture Ceremony",
+        "date": "July 13, 2024",
+        "day": "Saturday",
+        "type": "School Event",
+        "category": "Event"
+      }
+    ]
+  }

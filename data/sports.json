@@ -1,0 +1,202 @@
+[
+    {
+        "_id": "1",
+        "img_bg": "/assets/img/grid/1.png",
+        "category": "Sports",
+        "title": "Annual Sports Day",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Coach Sharma",
+        "date": "2024-03-05",
+        "description": "A day filled with exciting sports competitions and activities."
+    },
+    {
+        "_id": "2",
+        "img_bg": "/assets/img/grid/2.png",
+        "category": "Athletics",
+        "title": "Inter-School Athletics Meet",
+        "teacher_img": "/assets/img/staff/staff-2.png",
+        "tutor_name": "Mr. Verma",
+        "date": "2024-04-10",
+        "description": "Our students compete in various athletic events with schools across the region."
+    },
+    {
+        "_id": "3",
+        "img_bg": "/assets/img/grid/3.png",
+        "category": "Football",
+        "title": "Football Championship",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Coach Kumar",
+        "date": "2024-05-15",
+        "description": "The ultimate football tournament to test our students' teamwork and skills."
+    },
+    {
+        "_id": "4",
+        "img_bg": "/assets/img/grid/4.png",
+        "category": "Cricket",
+        "title": "Inter-House Cricket Tournament",
+        "teacher_img": "/assets/img/staff/staff-4.png",
+        "tutor_name": "Mr. Gupta",
+        "date": "2024-06-20",
+        "description": "Houses compete in a thrilling cricket tournament for the championship trophy."
+    },
+    {
+        "_id": "5",
+        "img_bg": "/assets/img/grid/5.png",
+        "category": "Basketball",
+        "title": "Basketball League",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Ms. Reddy",
+        "date": "2024-07-08",
+        "description": "Intense basketball matches between school teams for the annual league."
+    },
+    {
+        "_id": "6",
+        "img_bg": "/assets/img/grid/6.png",
+        "category": "Badminton",
+        "title": "State-Level Badminton Championship",
+        "teacher_img": "/assets/img/staff/staff-6.png",
+        "tutor_name": "Coach Singh",
+        "date": "2024-08-12",
+        "description": "Our top players represent the school in the state-level badminton event."
+    },
+    {
+        "_id": "7",
+        "img_bg": "/assets/img/grid/7.png",
+        "category": "Table Tennis",
+        "title": "Table Tennis Tournament",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Ms. Kapoor",
+        "date": "2024-09-18",
+        "description": "School's top players battle it out in the Table Tennis championship."
+    },
+    {
+        "_id": "8",
+        "img_bg": "/assets/img/grid/8.png",
+        "category": "Hockey",
+        "title": "National Hockey Tournament",
+        "teacher_img": "/assets/img/staff/staff-2.png",
+        "tutor_name": "Mr. Patel",
+        "date": "2024-10-05",
+        "description": "Our hockey team competes in the national-level tournament."
+    },
+    {
+        "_id": "9",
+        "img_bg": "/assets/img/grid/9.png",
+        "category": "Volleyball",
+        "title": "Inter-District Volleyball Cup",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Ms. Das",
+        "date": "2024-11-01",
+        "description": "A highly competitive inter-district volleyball tournament."
+    },
+    {
+        "_id": "10",
+        "img_bg": "/assets/img/grid/10.png",
+        "category": "Chess",
+        "title": "Chess Championship",
+        "teacher_img": "/assets/img/staff/staff-4.png",
+        "tutor_name": "Coach Bose",
+        "date": "2024-11-20",
+        "description": "A battle of minds in the school's chess championship."
+    },
+    {
+        "_id": "11",
+        "img_bg": "/assets/img/grid/11.png",
+        "category": "Karate",
+        "title": "Karate Belt Examination",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Mr. Mehta",
+        "date": "2024-12-10",
+        "description": "Students test their martial arts skills and earn higher belt ranks."
+    },
+    {
+        "_id": "12",
+        "img_bg": "/assets/img/grid/12.png",
+        "category": "Swimming",
+        "title": "Annual Swimming Competition",
+        "teacher_img": "/assets/img/staff/staff-6.png",
+        "tutor_name": "Coach Nair",
+        "date": "2025-01-15",
+        "description": "Competitive swimming events for all age categories."
+    },
+    {
+        "_id": "13",
+        "img_bg": "/assets/img/grid/13.png",
+        "category": "Tennis",
+        "title": "Inter-School Tennis League",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Ms. Latha",
+        "date": "2025-02-05",
+        "description": "A league-style tennis tournament among school players."
+    },
+    {
+        "_id": "14",
+        "img_bg": "/assets/img/grid/14.png",
+        "category": "Athletics",
+        "title": "100m & 200m Sprint Finals",
+        "teacher_img": "/assets/img/staff/staff-2.png",
+        "tutor_name": "Mr. Rao",
+        "date": "2025-03-10",
+        "description": "Fastest runners compete in sprint races."
+    },
+    {
+        "_id": "15",
+        "img_bg": "/assets/img/grid/15.png",
+        "category": "Wrestling",
+        "title": "School Wrestling Championship",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Mr. Khan",
+        "date": "2025-04-20",
+        "description": "A tough competition among young wrestlers for the championship."
+    },
+    {
+        "_id": "16",
+        "img_bg": "/assets/img/grid/16.png",
+        "category": "Relay Race",
+        "title": "4x100m Relay Race",
+        "teacher_img": "/assets/img/staff/staff-4.png",
+        "tutor_name": "Coach Sen",
+        "date": "2025-05-05",
+        "description": "Teams compete in an exciting relay race."
+    },
+    {
+        "_id": "17",
+        "img_bg": "/assets/img/grid/17.png",
+        "category": "Cycling",
+        "title": "Inter-School Cycling Race",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Ms. Roy",
+        "date": "2025-06-01",
+        "description": "Cyclists compete in a long-distance race for the championship."
+    },
+    {
+        "_id": "18",
+        "img_bg": "/assets/img/grid/18.png",
+        "category": "Kabaddi",
+        "title": "State Kabaddi Championship",
+        "teacher_img": "/assets/img/staff/staff-6.png",
+        "tutor_name": "Mr. Joshi",
+        "date": "2025-07-15",
+        "description": "Kabaddi teams from various schools battle for the state title."
+    },
+    {
+        "_id": "19",
+        "img_bg": "/assets/img/grid/19.png",
+        "category": "Weightlifting",
+        "title": "Weightlifting Competition",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Mr. Yadav",
+        "date": "2025-08-10",
+        "description": "Students demonstrate strength and endurance in weightlifting challenges."
+    },
+    {
+        "_id": "20",
+        "img_bg": "/assets/img/grid/20.png",
+        "category": "Archery",
+        "title": "Archery Tournament",
+        "teacher_img": "/assets/img/staff/staff-2.png",
+        "tutor_name": "Ms. Iyer",
+        "date": "2025-09-05",
+        "description": "Precision and focus are tested in the annual archery tournament."
+    }
+]

@@ -1,0 +1,204 @@
+{
+    "listOfBooksData": [
+      {
+        "id": 1,
+        "name": "Pre-Primary",
+        "courses": "Nursery to KG",
+        "link": "#-primary",
+        "icon": "flaticon-email-marketing",
+        "mainSubjects": [
+          {
+            "subject": "English",
+            "books": ["English Primer", "Phonics Workbook", "Alphabet Book"]
+          },
+          {
+            "subject": "Mathematics",
+            "books": ["Number Book", "Basic Mathematics", "Activity Book"]
+          },
+          {
+            "subject": "General Knowledge",
+            "books": ["My World", "Picture Book", "Environmental Awareness"]
+          },
+          {
+            "subject": "Art & Craft",
+            "books": ["Drawing Book", "Art & Craft Activity Book"]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Primary Class (1-2)",
+        "courses": "Age 6-7 years",
+        "link": "/books/primary-junior",
+        "icon": "flaticon-book",
+        "mainSubjects": [
+          {
+            "subject": "English",
+            "books": ["Marigold Reader", "My English Workbook"]
+          },
+          {
+            "subject": "Mathematics",
+            "books": ["Math Magic", "Mathematics Practice Book"]
+          },
+          {
+            "subject": "EVS",
+            "books": ["Looking Around", "EVS Workbook"]
+          },
+          {
+            "subject": "Hindi",
+            "books": ["Rimjhim", "Hindi Abhyas Pustika"]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Primary Class (3-5)",
+        "courses": "Age 8-10 years",
+        "link": "/books/primary-senior",
+        "icon": "flaticon-book-stack",
+        "mainSubjects": [
+          {
+            "subject": "English",
+            "books": ["Marigold Advanced", "Grammar & Composition"]
+          },
+          {
+            "subject": "Mathematics",
+            "books": ["Mathematics Textbook", "Math Practice Guide"]
+          },
+          {
+            "subject": "Science",
+            "books": ["Environmental Studies", "Science Activity Book"]
+          },
+          {
+            "subject": "Social Studies",
+            "books": ["Our Past", "Social Science Workbook"]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Middle School (6-8)",
+        "courses": "Age 11-13 years",
+        "link": "/books/middle-school",
+        "icon": "flaticon-graduation-cap",
+        "mainSubjects": [
+          {
+            "subject": "English",
+            "books": ["Honeysuckle", "English Literature & Grammar"]
+          },
+          {
+            "subject": "Mathematics",
+            "books": ["Mathematics (NCERT)", "RD Sharma Mathematics"]
+          },
+          {
+            "subject": "Science",
+            "books": ["Science (NCERT)", "Science Lab Manual"]
+          },
+          {
+            "subject": "Social Science",
+            "books": ["History - Our Pasts", "Geography - Our Environment"]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Secondary (9-10)",
+        "courses": "Age 14-15 years",
+        "link": "/books/secondary",
+        "icon": "flaticon-education",
+        "mainSubjects": [
+          {
+            "subject": "English",
+            "books": ["Beehive", "Moments", "Words and Expressions"]
+          },
+          {
+            "subject": "Mathematics",
+            "books": ["Mathematics (NCERT)", "RS Aggarwal Mathematics"]
+          },
+          {
+            "subject": "Science",
+            "books": ["Science (NCERT)", "Science Lab Manual", "Science Exemplar"]
+          },
+          {
+            "subject": "Social Science",
+            "books": ["Contemporary India", "Democratic Politics", "Economics"]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Science Stream (11-12)",
+        "courses": "PCM/PCB",
+        "link": "#",
+        "icon": "flaticon-atom",
+        "mainSubjects": [
+          {
+            "subject": "Physics",
+            "books": ["Physics Part I (NCERT)", "Physics Part II (NCERT)", "HC Verma Physics"]
+          },
+          {
+            "subject": "Chemistry",
+            "books": ["Chemistry Part I (NCERT)", "Chemistry Part II (NCERT)", "Physical Chemistry"]
+          },
+          {
+            "subject": "Mathematics/Biology",
+            "books": ["Mathematics Parts I & II (NCERT)", "Biology (NCERT)", "Pradeep's Biology"]
+          },
+          {
+            "subject": "English Core",
+            "books": ["Flamingo", "Vistas", "English Core Practice"]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Commerce (11-12)",
+        "courses": "With/Without Maths",
+        "link": "#",
+        "icon": "flaticon-bars",
+        "mainSubjects": [
+          {
+            "subject": "Accountancy",
+            "books": ["Accountancy Part I (NCERT)", "Accountancy Part II (NCERT)", "DK Goel Accountancy"]
+          },
+          {
+            "subject": "Business Studies",
+            "books": ["Business Studies (NCERT)", "Poonam Gandhi Business Studies"]
+          },
+          {
+            "subject": "Economics",
+            "books": ["Micro Economics (NCERT)", "Macro Economics (NCERT)", "Statistics for Economics"]
+          },
+          {
+            "subject": "Mathematics/IP",
+            "books": ["Mathematics (Optional)", "Computer Science with Python"]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Humanities (11-12)",
+        "courses": "Arts Stream",
+        "link": "#",
+        "icon": "flaticon-graphic-design",
+        "mainSubjects": [
+          {
+            "subject": "History",
+            "books": ["Themes in Indian History", "World History", "Art and Culture"]
+          },
+          {
+            "subject": "Political Science",
+            "books": ["Indian Constitution at Work", "Political Theory", "Contemporary World Politics"]
+          },
+          {
+            "subject": "Geography",
+            "books": ["Fundamentals of Physical Geography", "India - Physical Environment", "Practical Work in Geography"]
+          },
+          {
+            "subject": "Economics",
+            "books": ["Indian Economic Development", "Statistics for Economics"]
+          }
+        ]
+      }
+    ]
+  }

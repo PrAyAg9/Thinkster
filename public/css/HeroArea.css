@@ -1,0 +1,106 @@
+.slider__area {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    overflow: hidden;
+}
+
+.slider__active {
+    width: 100%;
+    height: 100%;
+}
+
+.slider__item {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.slider__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+.slider__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)); /* Gradient Overlay */
+    z-index: 1;
+}
+
+.slider__content {
+    position: relative;
+    z-index: 2; /* Above the overlay */
+    color: #fff; /* Default white color */
+    /* Additional styles for spacing and typography */
+}
+
+.slider__content h2.slider__title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Text Shadow */
+}
+
+.slider__content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #f0f0f0; /* Slightly off-white for better readability */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slider__content span {
+    font-size: 1rem;
+    color: #ffd700; /* Example: Gold color for emphasis */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.tp-btn {
+    padding: 0.75rem 1.5rem;
+    background-color: #ffeb3b; /* Button Background Color */
+    color: #000; /* Button Text Color */
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.tp-btn:hover {
+    background-color: #fdd835; /* Darker shade on hover */
+}
+
+.main-slider-paginations {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 3;
+}
+
+.slider-button-next,
+.slider-button-prev {
+    background-color: rgba(255, 255, 255, 0.7);
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.slider-button-next:hover,
+.slider-button-prev:hover {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.slider-button-next i,
+.slider-button-prev i {
+    color: #000; /* Icon color */
+    font-size: 1rem;
+}

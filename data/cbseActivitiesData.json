@@ -1,0 +1,63 @@
+[
+    {
+      "_id": "1",
+      "img_bg": "/assets/img/cbse/cbse_update1.jpg",
+      "category": "New Updates",
+      "title": "CBSE Introduces New Examination Guidelines",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2024-02-10",
+      "description": "CBSE has introduced new guidelines to enhance the examination process."
+    },
+    {
+      "_id": "2",
+      "img_bg": "/assets/img/cbse/cbse_guidelines.jpg",
+      "category": "Recent Guidelines",
+      "title": "Updated Guidelines on Online Examinations",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2024-01-25",
+      "description": "New policies for online examinations to improve fairness and efficiency."
+    },
+    {
+      "_id": "3",
+      "img_bg": "/assets/img/cbse/cbse_schedule.jpg",
+      "category": "10 Schedule",
+      "title": "Class 10 Examination Schedule Released",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2024-01-15",
+      "description": "The official schedule for Class 10 CBSE exams has been announced."
+    },
+    {
+      "_id": "4",
+      "img_bg": "/assets/img/cbse/cbse_exam.jpg",
+      "category": "Exam Notifications",
+      "title": "Important Exam Notifications for 2024",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2023-12-30",
+      "description": "Important notifications regarding upcoming CBSE exams and changes in paper format."
+    },
+    {
+      "_id": "5",
+      "img_bg": "/assets/img/cbse/cbse_curriculum.jpg",
+      "category": "Curriculum Updates",
+      "title": "Latest Curriculum Updates and Changes",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2023-12-10",
+      "description": "CBSE has made changes in curriculum to align with NEP 2020 guidelines."
+    },
+    {
+      "_id": "6",
+      "img_bg": "/assets/img/cbse/cbse_update2.jpg",
+      "category": "New Updates",
+      "title": "CBSE Announces National Initiative for Digital Learning",
+      "teacher_img": "/assets/img/cbse/cbse_logo.jpg",
+      "tutor_name": "CBSE Board",
+      "date": "2023-11-20",
+      "description": "A new initiative to enhance digital learning resources for CBSE students."
+    }
+  ]
+  

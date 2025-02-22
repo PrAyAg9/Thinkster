@@ -1,0 +1,87 @@
+[
+    {
+      "awardTitle": "National Excellence Award",
+      "awardDescription": "Awarded for outstanding academic performance at the national level.",
+      "awardDate": "2023-05-10",
+      "awardImage": "assets/img/awards/award-1.jpg",
+      "awardCategory": "Academic"
+    },
+    {
+      "awardTitle": "State Sports Champion",
+      "awardDescription": "Recognized as the best sports team in the state championships.",
+      "awardDate": "2022-11-15",
+      "awardImage": "assets/img/awards/award-2.jpg",
+      "awardCategory": "Sports"
+    },
+    {
+      "awardTitle": "Innovation in Science Award",
+      "awardDescription": "For breakthrough research and innovative projects in science.",
+      "awardDate": "2023-03-22",
+      "awardImage": "assets/img/awards/award-3.jpg",
+      "awardCategory": "Science"
+    },
+    {
+      "awardTitle": "Best Extracurricular Award",
+      "awardDescription": "Recognizing exceptional performance in extracurricular activities.",
+      "awardDate": "2022-12-05",
+      "awardImage": "assets/img/awards/award-4.jpg",
+      "awardCategory": "Extracurricular"
+    },
+    {
+      "awardTitle": "Community Service Award",
+      "awardDescription": "For outstanding contributions to community service and social initiatives.",
+      "awardDate": "2023-01-30",
+      "awardImage": "assets/img/awards/award-5.jpg",
+      "awardCategory": "Community"
+    },
+    {
+      "awardTitle": "Best Art & Culture Award",
+      "awardDescription": "Awarded for excellence in art and cultural activities.",
+      "awardDate": "2022-10-10",
+      "awardImage": "assets/img/awards/award-6.jpg",
+      "awardCategory": "Arts"
+    },
+    {
+      "awardTitle": "Leadership Excellence Award",
+      "awardDescription": "For inspiring leadership and outstanding mentorship.",
+      "awardDate": "2023-04-18",
+      "awardImage": "assets/img/awards/award-7.jpg",
+      "awardCategory": "Leadership"
+    },
+    {
+      "awardTitle": "Digital Learning Innovation Award",
+      "awardDescription": "Recognized for excellence in digital learning and technology integration.",
+      "awardDate": "2023-02-12",
+      "awardImage": "assets/img/awards/award-8.jpg",
+      "awardCategory": "Technology"
+    },
+    {
+      "awardTitle": "Excellence in Music Award",
+      "awardDescription": "For exceptional achievements in music and performing arts.",
+      "awardDate": "2023-06-05",
+      "awardImage": "assets/img/awards/award-9.jpg",
+      "awardCategory": "Music"
+    },
+    {
+      "awardTitle": "Outstanding Innovation Award",
+      "awardDescription": "For creative and innovative projects that solve real-world challenges.",
+      "awardDate": "2023-03-15",
+      "awardImage": "assets/img/awards/award-10.jpg",
+      "awardCategory": "Innovation"
+    },
+    {
+      "awardTitle": "Best Teacher Award",
+      "awardDescription": "Recognized for exceptional dedication and contributions in teaching.",
+      "awardDate": "2023-05-01",
+      "awardImage": "assets/img/awards/award-11.jpg",
+      "awardCategory": "Faculty"
+    },
+    {
+      "awardTitle": "Green Initiative Award",
+      "awardDescription": "Awarded for significant contributions to environmental sustainability.",
+      "awardDate": "2023-07-20",
+      "awardImage": "assets/img/awards/award-12.jpg",
+      "awardCategory": "Environment"
+    }
+  ]
+  

@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "1",
+        "img_bg": "/assets/img/grid/8.png",
+        "category": "Mathematics",
+        "title": "National Math Olympiad",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Dr. Rao",
+        "date": "2024-07-10",
+        "description": "A challenging competition for math enthusiasts to test their problem-solving skills."
+    },
+    {
+        "_id": "2",
+        "img_bg": "/assets/img/grid/19.png",
+        "category": "Science",
+        "title": "International Science Olympiad",
+        "teacher_img": "/assets/img/staff/staff-2.png",
+        "tutor_name": "Ms. Sharma",
+        "date": "2024-08-15",
+        "description": "Compete in an international-level science contest covering physics, chemistry, and biology."
+    },
+    {
+        "_id": "3",
+        "img_bg": "/assets/img/grid/3.png",
+        "category": "English",
+        "title": "English Proficiency Olympiad",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Mr. Das",
+        "date": "2024-09-05",
+        "description": "A language-based competition to enhance vocabulary, grammar, and comprehension skills."
+    },
+    {
+        "_id": "4",
+        "img_bg": "/assets/img/grid/15.png",
+        "category": "Computer Science",
+        "title": "Coding & Cyber Olympiad",
+        "teacher_img": "/assets/img/staff/staff-4.png",
+        "tutor_name": "Mr. Mehta",
+        "date": "2024-10-20",
+        "description": "Test your programming and cybersecurity knowledge in this national-level contest."
+    },
+    {
+        "_id": "5",
+        "img_bg": "/assets/img/grid/22.png",
+        "category": "General Knowledge",
+        "title": "GK & Current Affairs Olympiad",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Ms. Patel",
+        "date": "2024-11-18",
+        "description": "A knowledge-based test on current events, history, geography, and politics."
+    },
+    {
+        "_id": "6",
+        "img_bg": "/assets/img/grid/30.png",
+        "category": "Logical Reasoning",
+        "title": "Aptitude & Logical Reasoning Olympiad",
+        "teacher_img": "/assets/img/staff/staff-6.png",
+        "tutor_name": "Mr. Verma",
+        "date": "2024-12-10",
+        "description": "A test of analytical, reasoning, and problem-solving abilities for students."
+    },
+    {
+        "_id": "7",
+        "img_bg": "/assets/img/grid/5.png",
+        "category": "Robotics",
+        "title": "National Robotics Olympiad",
+        "teacher_img": "/assets/img/staff/staff-7.png",
+        "tutor_name": "Dr. Kumar",
+        "date": "2025-01-20",
+        "description": "A robotics challenge where students showcase their innovative automation solutions."
+    },
+    {
+        "_id": "8",
+        "img_bg": "/assets/img/grid/13.png",
+        "category": "Environmental Science",
+        "title": "Eco Awareness Olympiad",
+        "teacher_img": "/assets/img/staff/staff-8.png",
+        "tutor_name": "Ms. Iyer",
+        "date": "2025-02-15",
+        "description": "A sustainability-focused competition on climate change and environmental conservation."
+    }
+]

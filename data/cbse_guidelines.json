@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Dress Code",
+      "content": "Students must adhere to the prescribed dress code and maintain a neat appearance. Uniforms should be worn on all school days and during official functions."
+    },
+    {
+      "id": 2,
+      "title": "Examination Rules",
+      "content": "During examinations, mobile phones and smart devices are strictly prohibited. Any form of malpractice will lead to disqualification."
+    },
+    {
+      "id": 3,
+      "title": "Attendance Policy",
+      "content": "Students must maintain a minimum of 75% attendance throughout the academic year to be eligible for board examinations."
+    },
+    {
+      "id": 4,
+      "title": "Digital Learning Guidelines",
+      "content": "Students must ensure a distraction-free environment during online classes. Assignments should be submitted on time through the designated platforms."
+    },
+    {
+      "id": 5,
+      "title": "Code of Conduct",
+      "content": "All students must follow the school's disciplinary policies, including respect for teachers, peers, and staff members."
+    },
+    {
+      "id": 6,
+      "title": "Library Rules",
+      "content": "Books must be returned within the due date. Silence must be maintained inside the library."
+    },
+    {
+      "id": 7,
+      "title": "Sports and Extracurricular Activities",
+      "content": "Participation in sports and extracurricular activities is encouraged. Students must follow fair play and team spirit at all times."
+    },
+    {
+      "id": 8,
+      "title": "Use of School Property",
+      "content": "Any damage to school property must be reported immediately. Students will be held accountable for intentional damage."
+    },
+    {
+      "id": 9,
+      "title": "Health & Safety Guidelines",
+      "content": "Students should maintain hygiene and follow health protocols. In case of sickness, a medical certificate is required for extended absences."
+    },
+    {
+      "id": 10,
+      "title": "Parental Engagement",
+      "content": "Parents should regularly check the school portal for updates on academic progress, attendance, and important notices."
+    }
+  ]
+  

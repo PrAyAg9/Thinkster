@@ -1,0 +1,64 @@
+{
+  "committeeMembers": [
+    {
+      "id": 1,
+      "name": "Mr. Sanjay Mehta",
+      "role": "Chairman",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "25+ years of experience in educational administration. Leading the institution's vision and strategic development.",
+      "email": "chairman@school.edu.in",
+      "qualification": "Ph.D. in Educational Leadership",
+      "bgColor": "#64df59"
+    },
+    {
+      "id": 2,
+      "name": "Mrs. Rita Kapoor",
+      "role": "Vice Chairman",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "20+ years of experience in academic leadership. Focuses on curriculum development and teaching excellence.",
+      "email": "vicechairman@school.edu.in",
+      "qualification": "M.Ed. in Educational Management",
+      "bgColor": "#ff9f43"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Mohan Rao",
+      "role": "Secretary",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "Expert in educational policy making with extensive experience in school administration and management.",
+      "email": "secretary@school.edu.in",
+      "qualification": "Ph.D. in Education Policy",
+      "bgColor": "#59c7df"
+    },
+    {
+      "id": 4,
+      "name": "Mrs. Kavita Nair",
+      "role": "Joint Secretary",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "Specializes in student welfare and parent relations. Coordinates various school development programs.",
+      "email": "jointsec@school.edu.in",
+      "qualification": "M.A. in Education",
+      "bgColor": "#845adf"
+    },
+    {
+      "id": 5,
+      "name": "Mr. Prakash Jha",
+      "role": "Treasurer",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "Manages school finances and development projects. Expert in educational institution financial planning.",
+      "email": "treasurer@school.edu.in",
+      "qualification": "CA, MBA Finance",
+      "bgColor": "#f86c6b"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Anand Kumar",
+      "role": "Member",
+      "image": "/assets/img/staff/staff-5.png",
+      "description": "Contributes to academic planning and infrastructure development. Expert in modern education methodologies.",
+      "email": "member1@school.edu.in",
+      "qualification": "Ph.D. in Educational Technology",
+      "bgColor": "#eadb52"
+    }
+  ]
+}

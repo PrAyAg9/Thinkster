@@ -1,0 +1,60 @@
+{
+    "curriculumData": [
+      {
+        "id": 1,
+        "name": "Pre-Primary",
+        "courses": "Nursery to KG",
+        "link": "#-primary",
+        "icon": "flaticon-email-marketing"
+      },
+      {
+        "id": 2,
+        "name": "Primary",
+        "courses": "Class 1 to 5",
+        "link": "#",
+        "icon": "flaticon-graphic-design"
+      },
+      {
+        "id": 3,
+        "name": "Middle School",
+        "courses": "Class 6 to 8",
+        "link": "#",
+        "icon": "flaticon-bars"
+      },
+      {
+        "id": 4,
+        "name": "Secondary",
+        "courses": "Class 9 & 10",
+        "link": "#",
+        "icon": "flaticon-programming-language"
+      },
+      {
+        "id": 5,
+        "name": "Senior Secondary",
+        "courses": "Class 11 & 12",
+        "link": "#-secondary",
+        "icon": "flaticon-atom"
+      },
+      {
+        "id": 6,
+        "name": "Science Stream",
+        "courses": "PCM/PCB",
+        "link": "#",
+        "icon": "flaticon-atom"
+      },
+      {
+        "id": 7,
+        "name": "Commerce",
+        "courses": "With/Without Maths",
+        "link": "#",
+        "icon": "flaticon-bars"
+      },
+      {
+        "id": 8,
+        "name": "Humanities",
+        "courses": "Arts Stream",
+        "link": "#",
+        "icon": "flaticon-graphic-design"
+      }
+    ]
+  }

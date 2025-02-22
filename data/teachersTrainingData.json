@@ -1,0 +1,63 @@
+[
+    {
+      "_id": "1",
+      "img_bg": "/assets/img/grid/1.png",
+      "category": "Workshop",
+      "title": "Innovative Teaching Workshop 2024",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Dr. Mehta",
+      "date": "2024-03-01",
+      "description": "Join us for an exciting innovative teaching workshop and elevate your classroom strategies."
+    },
+    {
+      "_id": "2",
+      "img_bg": "/assets/img/grid/2.png",
+      "category": "Seminar",
+      "title": "Educational Technology Seminar",
+      "teacher_img": "/assets/img/staff/staff-2.png",
+      "tutor_name": "Ms. Sharma",
+      "date": "2024-02-15",
+      "description": "Discover cutting-edge educational technology and modern teaching methods in this seminar."
+    },
+    {
+      "_id": "3",
+      "img_bg": "/assets/img/grid/3.png",
+      "category": "Online Course",
+      "title": "Online Certification in Digital Pedagogy",
+      "teacher_img": "/assets/img/staff/staff-3.png",
+      "tutor_name": "Mr. Kumar",
+      "date": "2023-12-01",
+      "description": "Earn certification in digital pedagogy through our comprehensive online course."
+    },
+    {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/4.png",
+      "category": "Certification",
+      "title": "Certification in Classroom Management",
+      "teacher_img": "/assets/img/staff/staff-4.png",
+      "tutor_name": "Mrs. Joshi",
+      "date": "2024-01-10",
+      "description": "Master classroom management with our specialized certification course."
+    },
+    {
+      "_id": "5",
+      "img_bg": "/assets/img/grid/5.png",
+      "category": "In‑House Training",
+      "title": "In‑House Training on Inclusive Education",
+      "teacher_img": "/assets/img/staff/staff-5.png",
+      "tutor_name": "Ms. Verma",
+      "date": "2023-11-20",
+      "description": "Enhance inclusive teaching strategies with our in‑house training sessions."
+    },
+    {
+      "_id": "6",
+      "img_bg": "/assets/img/grid/6.png",
+      "category": "Workshop",
+      "title": "Workshop on Collaborative Learning Techniques",
+      "teacher_img": "/assets/img/staff/staff-6.png",
+      "tutor_name": "Dr. Singh",
+      "date": "2024-04-05",
+      "description": "Improve collaborative learning in your classroom through interactive techniques."
+    }
+  ]
+  

@@ -1,0 +1,102 @@
+[
+  {
+      "_id": "1",
+      "img_bg": "/assets/img/grid/5.png",
+      "category": "Sports",
+      "title": "Annual Sports Day",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Coach Singh",
+      "date": "2023-10-05",
+      "description": "Celebrate our annual sports day with exciting events and competitions."
+  },
+  {
+      "_id": "2",
+      "img_bg": "/assets/img/grid/12.png",
+      "category": "Arts",
+      "title": "Art & Craft Exhibition",
+      "teacher_img": "/assets/img/staff/staff-2.png",
+      "tutor_name": "Ms. Kapoor",
+      "date": "2023-09-15",
+      "description": "Explore creative artworks and craft projects by our talented students."
+  },
+  {
+      "_id": "3",
+      "img_bg": "/assets/img/grid/20.png",
+      "category": "Music",
+      "title": "School Band Concert",
+      "teacher_img": "/assets/img/staff/staff-3.png",
+      "tutor_name": "Mr. Reddy",
+      "date": "2023-11-20",
+      "description": "Enjoy a night of live music performances by our school band."
+  },
+  {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/7.png",
+      "category": "Dance",
+      "title": "Cultural Dance Night",
+      "teacher_img": "/assets/img/staff/staff-4.png",
+      "tutor_name": "Ms. Verma",
+      "date": "2023-12-05",
+      "description": "Experience vibrant dance performances celebrating cultural diversity."
+  },
+  {
+      "_id": "5",
+      "img_bg": "/assets/img/grid/25.png",
+      "category": "Drama",
+      "title": "School Play: The Journey",
+      "teacher_img": "/assets/img/staff/staff-5.png",
+      "tutor_name": "Mr. Gupta",
+      "date": "2023-08-30",
+      "description": "Watch an engaging play performed by our school drama club."
+  },
+  {
+      "_id": "6",
+      "img_bg": "/assets/img/grid/14.png",
+      "category": "Science",
+      "title": "Science Fair",
+      "teacher_img": "/assets/img/staff/staff-6.png",
+      "tutor_name": "Dr. Sharma",
+      "date": "2023-09-10",
+      "description": "Discover innovative science projects and experiments at our annual fair."
+  },
+  {
+      "_id": "7",
+      "img_bg": "/assets/img/grid/30.png",
+      "category": "Literature",
+      "title": "Book Reading & Poetry",
+      "teacher_img": "/assets/img/staff/staff-7.png",
+      "tutor_name": "Ms. Desai",
+      "date": "2023-10-12",
+      "description": "Join us for an evening of inspiring literature and poetry readings."
+  },
+  {
+      "_id": "8",
+      "img_bg": "/assets/img/grid/18.png",
+      "category": "Technology",
+      "title": "Robotics Workshop",
+      "teacher_img": "/assets/img/staff/staff-8.png",
+      "tutor_name": "Mr. Mehta",
+      "date": "2023-11-01",
+      "description": "Participate in a hands-on robotics workshop and learn the basics of coding."
+  },
+  {
+      "_id": "9",
+      "img_bg": "/assets/img/grid/9.png",
+      "category": "Community",
+      "title": "Community Service Day",
+      "teacher_img": "/assets/img/staff/staff-9.png",
+      "tutor_name": "Mrs. Sharma",
+      "date": "2023-08-20",
+      "description": "Engage in community service projects and make a positive impact."
+  },
+  {
+      "_id": "10",
+      "img_bg": "/assets/img/grid/27.png",
+      "category": "Cultural",
+      "title": "International Food Festival",
+      "teacher_img": "/assets/img/staff/staff-10.jpg",
+      "tutor_name": "Ms. Patel",
+      "date": "2023-12-15",
+      "description": "Taste and enjoy cuisines from around the world at our food festival."
+  }
+]

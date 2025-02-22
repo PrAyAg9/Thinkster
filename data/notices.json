@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "School Reopening Notice",
+      "content": "We are pleased to announce that the school will reopen on March 1, 2025. Please check your emails for further instructions.",
+      "date": "2025-02-28"
+    },
+    {
+      "id": 2,
+      "title": "Examination Schedule Released",
+      "content": "The examination schedule for the upcoming term has been released. Please refer to the notice for details and timings.",
+      "date": "2025-02-25"
+    },
+    {
+      "id": 3,
+      "title": "Holiday Announcement",
+      "content": "A holiday has been declared on April 1, 2025, due to regional festivities. Kindly plan your academic activities accordingly.",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 4,
+      "title": "Parent-Teacher Meeting",
+      "content": "The next parent-teacher meeting is scheduled for March 15, 2025. Parents are requested to attend and discuss their child's progress.",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 5,
+      "title": "Library Book Submission Reminder",
+      "content": "Students are reminded to return their borrowed library books by March 5, 2025, to avoid late fines.",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 6,
+      "title": "Sports Day Announcement",
+      "content": "The annual sports day will be held on March 20, 2025. Students are encouraged to participate in various events.",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 7,
+      "title": "Science Fair Registration Open",
+      "content": "Registrations for the annual Science Fair are now open. Interested students should register by March 12, 2025.",
+      "date": "2025-02-27"
+    },
+    {
+      "id": 8,
+      "title": "School Picnic",
+      "content": "A school picnic is planned for March 25, 2025. Students must submit their consent forms by March 15, 2025.",
+      "date": "2025-02-22"
+    },
+    {
+      "id": 9,
+      "title": "New School Uniform Guidelines",
+      "content": "Starting April 2025, new uniform guidelines will be implemented. Please check the school website for details.",
+      "date": "2025-03-15"
+    },
+    {
+      "id": 10,
+      "title": "Summer Vacation Dates Announced",
+      "content": "Summer vacations will begin on May 15, 2025, and end on June 30, 2025. Have a great break!",
+      "date": "2025-04-10"
+    }
+  ]
+  
