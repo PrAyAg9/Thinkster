@@ -65,7 +65,7 @@ const Header = () => {
                               fill="#4B535A"
                             />
                           </svg>{" "}
-                          care@educal.com
+                          care@iqnaut.com
                         </a>
                       </li>
                       <li>
